@@ -42,7 +42,7 @@
 
   ![Screenshot 2025-02-10 183248](https://github.com/user-attachments/assets/a9756962-1e30-4baf-a9f1-ac79502706df)
 
-## Project Workflow
+## Project Insights
 
  -> As per the requirements this dashboard illustrates the project statics for each department, use the controls to filter the data as needed.
 

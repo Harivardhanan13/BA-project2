@@ -34,6 +34,8 @@
 
 -> Created required Visualizations for analysis.
 
+-> Created Table that represents the department goals along with project budget and Salary cost of a deaprtment. 
+
 ## Dashboard
 
   ![Screenshot 2025-02-10 183248](https://github.com/user-attachments/assets/a9756962-1e30-4baf-a9f1-ac79502706df)

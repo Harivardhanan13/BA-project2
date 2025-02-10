@@ -28,10 +28,14 @@
 
 -> Used Union all operator to Append Upcoming projects table with Completed projects table and Gave Common table expression cte. 
 
-
--> Again Joined Employee table with cte (Appended Upcoming and Completed tables)
+-> Again Joined Employee table with cte (Appended Upcoming and Completed table)
 
 -> Imported this Query to Power BI using Advance option to limit data.
 
 -> Created required Visualizations for analysis.
+
+## Dashboard
+
+  ![Screenshot 2025-02-10 183248](https://github.com/user-attachments/assets/a9756962-1e30-4baf-a9f1-ac79502706df)
+
 

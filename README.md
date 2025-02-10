@@ -36,7 +36,7 @@
 
 -> Created Table that represents the department goals along with project budget and Salary cost of a deaprtment. 
 
--> Imported Flate file of Headshots (Images of employees) into Power BI and edited the relationshiop of that with slicer inorder filter other employee details.
+-> Imported Flate file of Headshots (Images of employees) into Power BI and edited the relationshiop of the card image with slicer inorder filter other employee details.
 
 
 ## Dashboard

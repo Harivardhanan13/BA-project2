@@ -38,9 +38,18 @@
 
 -> Imported Flate file of Headshots (Images of employees) into Power BI and edited the relationshiop of the card image with slicer inorder filter other employee details.
 
-
 ## Dashboard
 
   ![Screenshot 2025-02-10 183248](https://github.com/user-attachments/assets/a9756962-1e30-4baf-a9f1-ac79502706df)
+
+## Project Workflow
+
+ -> As per the requirements this dashboard illustrates the project statics for each department, use the controls to filter the data as needed.
+
+-> As per the reports HR department is in the Negative value and Engineering department has Huge Capital and less project coset and Salary cost.
+
+-> In upcoming projects Marketing department has High project budget for Product Launch(project) and IT department has Low budget for SMS(social Media Startegy)
+
+-> When it comes to completed project HR department had high project budget for Brand Repositioning(Project) and IT had low budget for Market research project.
 
 
